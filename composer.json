@@ -1,0 +1,18 @@
+{
+	"name": "charles-ritchie/silverstripe-dataobject-history-browser",
+	"description": "Facilitates viewing of versioned a DataObject in the same manner as Page history is viewed.",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "dataobject", "history", "viewer", "browser"],
+	"license": "BSD-3-Clause",
+	"authors": [
+	{
+		"name": "Charles Ritchie",
+		"email": "charles.w.ritchie@gmail.com"
+	}
+	],
+	"require":
+	{
+		"silverstripe/cms": ">=3.0.0",
+
+	}
+}
